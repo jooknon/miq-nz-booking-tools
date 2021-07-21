@@ -1,4 +1,4 @@
-var secondsToRefresh = 5;
+var secondsToRefresh = 6;
 
 var availableDates = document.getElementsByClassName("has-event");
 // var unavailableDates = document.getElementsByClassName("is-disabled");
